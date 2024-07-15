@@ -13,7 +13,7 @@ This repository serves as a record of my journey through the challenge. Here, yo
 
 ## Connect with Me
 
-- **LeetCode ID:** [anshulgarg](https://leetcode.com/u/anshulgarg398/)
+- **LeetCode ID:** [Anshul Garg](https://leetcode.com/u/anshulgarg398/)
 
 Feel free to follow my journey and review my solutions. If you have any questions or suggestions, please reach out to me.
 
